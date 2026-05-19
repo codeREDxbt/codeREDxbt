@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web3<br>👯 I’m looking to collaborate on Blockchain and Multi-Stack projects<br>🤝 I’m looking for help with Blockchain and web3<br>🌱 I’m currently learning Solidity , Solana fellowship <br>💬 Ask me about Crypto & Tech<br>⚡ Fun fact - I am a bit lazy and chill but can get work done on time
+🔭 I’m currently working on Web3<br>👯 I’m looking to collaborate on Blockchain and Full-Stack projects<br>🤝 I’m looking for help with Blockchain and web3<br>🌱 I’m currently learning Solidity , Solana fellowship <br>💬 Ask me about Crypto & Tech<br>⚡ Fun fact - I am a bit lazy and chill but can get work done on time
 
 
 ## 🌐 Socials:
